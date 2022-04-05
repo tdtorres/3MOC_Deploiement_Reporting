@@ -1,0 +1,52 @@
+[
+    {
+        "id":"1",
+        "titre":"Comment était la matinée",
+        "reponse1":"Difficile",
+        "reponse2":"tranquille",
+        "reponse3":"Chargée",
+        "reponse4":"super"
+
+    },
+    {
+        "id": "2",
+        "titre": "Si cette jourée devait avoir un slogan, ce serait:",
+        "reponse1": "en avant toute",
+        "reponse2": "ne oas déranger",
+        "reponse3": "vive la vie",
+        "reponse4": "tranquille émile"
+    },
+    {
+        "id": "3",
+        "titre": "La couleur du jour",
+        "reponse1": "rouge",
+        "reponse2": "bleu",
+        "reponse3": "orange",
+        "reponse4": "bleur clair"
+    },
+    {
+        "id": "4",
+        "titre": "choix de l'habillement",
+        "reponse1": "classe et sexy",
+        "reponse2": "discret",
+        "reponse3": "confortable",
+        "reponse4": "original et décalé"
+    },
+    {
+        "id": "5",
+        "titre": "là tout de suite ,j'aurais envie de:",
+        "reponse1": "blague",
+        "reponse2": "baguette magique pour accélérer les choses",
+        "reponse3": "de mon lit",
+        "reponse4": "d'un café"
+    },
+    {
+        "id": "6",
+        "titre": "Aujourd'hui j'ai besoin :",
+        "reponse1": "d'action",
+        "reponse2": "de soutien",
+        "reponse3": "de rire",
+        "reponse4": "de calme"
+    }
+
+]
