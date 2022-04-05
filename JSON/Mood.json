@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "label":"joyeux",
+        
+
+    },
+    {
+        "id": "2",
+        "label": "triste",
+        
+    },
+    {
+        "id": "3",
+        "label": "énergique",
+        
+    },
+    {
+        "id": "4",
+        "label": "colère",
+        
+    },
+    {
+        "id": "5",
+        "label": "concentré",
+        
+    },
+    {
+        "id": "6",
+        "label": "fatigué",
+        
+    },
+    {
+        "id": "5",
+        "label": "stressé",
+        
+    },
+    {
+        "id": "5",
+        "label": "zen",
+        
+    },
+
+]
