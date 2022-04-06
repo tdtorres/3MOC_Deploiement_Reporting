@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "titre":"europe",
+        
+
+    },
+    {
+        "id": "2",
+        "titre": "afrique:",
+
+    },
+    {
+        "id": "3",
+        "titre": "Amérique du Nord",
+        
+    },
+    {
+        "id": "4",
+        "titre": "Amérique du sud",
+        
+    },
+    {
+        "id": "5",
+        "titre": "Asie",
+        
+    },
+    {
+        "id": "6",
+        "titre": "Océanie",
+        
+    }
+
+]
