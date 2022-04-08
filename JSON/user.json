@@ -4,7 +4,11 @@
         "FirstName":"Jean-Augustin",
         "LastName":"HOUARI",
         "Gender":"Homme",
-        "idCountry":"4"
+        "idCountry":"4",
+        "ville":"Rio de janeiro",
+        "password":"ud5P6",
+        "token_reconnexion":""
+
 
     },
     {
@@ -12,7 +16,10 @@
         "FirstName": "Eddy:",
         "LastName":"Malou",
         "Gender":"Homme",
-        "idCountry":"2"
+        "idCountry":"2",
+        "ville":"Bamako",
+        "password":"uc55L",
+        "token_reconnexion":""
 
     },
     {
@@ -20,7 +27,10 @@
         "FirstName": "THOMAS",
         "LastName":"OUAKIL ",
         "Gender":"Homme",
-        "idCountry":"1"
+        "idCountry":"1",
+        "ville":"Paris",
+        "password":"7Gn6p",
+        "token_reconnexion":""
         
     },
     {
@@ -28,7 +38,10 @@
         "FirstName": "AIME",
         "LastName":"BRAHAM ",
         "Gender":"Femme",
-        "idCountry":"6"
+        "idCountry":"6",
+        "ville":"Sydney",
+        "password":"78Rka",
+        "token_reconnexion":""
         
     },
     {
@@ -36,7 +49,10 @@
         "FirstName": "MAYIMONA",
         "LastName":"RAMDANI",
         "Gender":"Femme",
-        "idCountry":"5"
+        "idCountry":"5",
+        "ville":"Wuhan",
+        "password":"Zcx55",
+        "token_reconnexion":""
         
     },
     {
@@ -44,7 +60,10 @@
         "FirstName": "HOCINE",
         "LastName":"MAYISA ",
         "Gender":"Autre",
-        "idCountry":"3"
+        "idCountry":"3",
+        "ville":"Detroit",
+        "password":"4i4cL",
+        "token_reconnexion":""
         
     }
 

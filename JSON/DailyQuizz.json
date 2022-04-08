@@ -5,12 +5,16 @@
         "reponse1":"Difficile",
         "reponse2":"tranquille",
         "reponse3":"Chargée",
-        "reponse4":"super"
+        "reponse4":"super",
+        "value1":"1",
+        "value2":"2",
+        "value3":"3",
+        "value4":"4"
 
     },
     {
         "id": "2",
-        "titre": "Si cette jourée devait avoir un slogan, ce serait:",
+        "titre": "Si cette journée devait avoir un slogan, ce serait:",
         "reponse1": "en avant toute",
         "reponse2": "ne oas déranger",
         "reponse3": "vive la vie",
